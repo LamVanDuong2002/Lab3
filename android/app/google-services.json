@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605534632876",
+    "project_id": "duongexpofirebase",
+    "storage_bucket": "duongexpofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605534632876:android:6ec2522163790bea25d809",
+        "android_client_info": {
+          "package_name": "com.anonymous.duongexpofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605534632876-bn413693a0kbr60dtpjdtl752htd76pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.duongexpofirebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "605534632876-85gtjfso9plq2psee82kmsn8n3qh8qc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZFIw7GaJwDviufkvGGIOg_IWmMSKOqm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605534632876-85gtjfso9plq2psee82kmsn8n3qh8qc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
